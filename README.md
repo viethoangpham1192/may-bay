@@ -19,7 +19,9 @@ Vai trò trong dự án:
 - Tối ưu code 
 - Sửa lỗi 
 - Thiết kế đồ họa 
-- Kiểm thử Công nghệ sử dụng
+- Kiểm thử
+
+Công nghệ sử dụng:
 - CodeBlock 
 - C++ 
 - SFML 
